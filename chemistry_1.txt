@@ -1,0 +1,5 @@
+Atomic number of Oxygen?|8|16|32|64|1
+pH of pure water?|7|1|14|0|1
+What is a covalent bond?|Electron sharing|Electron transfer|Metal bonding|Ionic attraction|1
+Gas law relating P and V?|Boyle's Law|Charles's Law|Avogadro's Law|Gay-Lussac's Law|1
+Most electronegative element?|Fluorine|Oxygen|Chlorine|Nitrogen|1
