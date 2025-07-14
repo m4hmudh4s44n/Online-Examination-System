@@ -1,5 +1,0 @@
-What is Ohm's Law?|V=IR|P=VI|F=ma|E=mc²|1
-Unit of resistance?|Ohm|Farad|Henry|Tesla|1
-Which lens converges light?|Convex|Concave|Plano|Cylindrical|1
-Nuclear force acts between?|Protons & Neutrons|Electrons|Atoms|Molecules|1
-What is superconductivity?|Zero resistance|High resistance|Magnetic field|Electric field|1
