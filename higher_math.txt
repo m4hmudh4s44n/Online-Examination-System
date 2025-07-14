@@ -1,5 +1,0 @@
-Derivative of x²?|2x|x|0|2|1
-∫(1/x)dx?|ln|x| + C|x + C|1/x + C|eˣ + C|1
-What is i (imaginary unit)?|√-1|-1|1|π|1
-Quadratic formula?|[−b±√(b²−4ac)]/2a|b²−4ac|a²+b²|c²−a²|1
-Value of sin(90°)?|1|0|0.5|√2/2|1
