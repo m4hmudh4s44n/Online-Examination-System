@@ -1,5 +1,0 @@
-What is Newton's First Law?|Law of Inertia|F=ma|Action-Reaction|Energy Conservation|1
-Unit of force?|Newton|Joule|Watt|Pascal|1
-What measures electric current?|Ammeter|Voltmeter|Ohmmeter|Galvanometer|1
-Acceleration due to gravity (g)?|9.8 m/s²|6.7 m/s²|3.0 m/s²|12.5 m/s²|1
-Energy stored in a spring?|Elastic PE|Kinetic Energy|Thermal Energy|Nuclear Energy|1
